@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Change_request</description>
+        <device_type>browser</device_type>
+        <hint>Change_request</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>arindam.sarkar@snc</sys_created_by>
+        <sys_created_on>2020-12-25 11:14:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0fe6221db51201013d27e8f299619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change_request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Change_request" source="x_1234_change_req">81ae62eddb11201013d27e8f29961904</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Change_request">81ae62eddb11201013d27e8f29961904</sys_scope>
+        <sys_update_name>sys_app_application_e0fe6221db51201013d27e8f299619b1</sys_update_name>
+        <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+        <sys_updated_on>2020-12-25 11:14:29</sys_updated_on>
+        <title>Change_request</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
